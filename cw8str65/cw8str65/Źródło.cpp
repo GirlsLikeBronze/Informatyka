@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-char napis[5] = "0020";
+char napis[5] = "009";
 int main()
 {
 	int i1, i2, i3, i4;
